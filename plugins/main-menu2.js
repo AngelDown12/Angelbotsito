@@ -1,5 +1,5 @@
 let handler = async (m, { conn }) => {
-  let img = '';
+  let img = 'https://d.uguu.se/StTbSbsx.mp4';
   let text = `*_M E N Ú - A U D I O S_* 🗣️
 「 *.on audios* 」  
 
